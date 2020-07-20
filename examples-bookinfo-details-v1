@@ -1,0 +1,2 @@
+FROM docker.io/istio/examples-bookinfo-details-v1:1.15.1
+MAINTAINER Juey <83035964@qq.com>
