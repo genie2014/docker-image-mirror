@@ -1,0 +1,2 @@
+FROM docker.io/istio/examples-bookinfo-ratings-v1:1.15.1
+MAINTAINER Juey <83035964@qq.com>
