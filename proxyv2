@@ -1,0 +1,2 @@
+FROM docker.io/istio/proxyv2:1.6.5
+MAINTAINER Juey <83035964@qq.com>
